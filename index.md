@@ -4,6 +4,8 @@ title:
 permalink: /
 ---
 
+**Purpose**
+
 The End of Term Web Archive captures and saves U.S. Government websites at the end of
 presidential administrations. Beginning in 2008, the EOT has thus far preserved websites from
 administration changes in 2008, 2012 and 2016.
