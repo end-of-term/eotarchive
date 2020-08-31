@@ -70,10 +70,6 @@ agencies and commissions. UNT also participates in the NDIIPP program and is a f
 the National Digital Stewardship Alliance. More information about the UNT Libraries web archiving
 activities can be found at the following link: [About Web Archiving at UNT][unt_web_archiving].
 
-### U.S. General Services Administration (GSA)
-
-The [U.S. General Services Administration (GSA)][gsa] has joind the End of Term team in 2020.
-
 ### U.S. Government Publishing Office (GPO)
 
 The [U.S. Government Publishing Office][gpo] manages the Federal Depository Library Program and is
@@ -92,5 +88,4 @@ charged with providing permanent public access to government publications.
 [unt]: https://library.unt.edu/
 [cybercemetery]: https://digital.library.unt.edu/explore/collections/GDCC/
 [unt_web_archiving]: https://library.unt.edu/digital-projects-unit/web-archiving/
-[gsa]: https://www.gsa.gov/
 [gpo]: http://www.gpo.gov/

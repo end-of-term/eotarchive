@@ -32,8 +32,8 @@ were out of scope.
 
 For the End of Term 2020, The Library of Congress, University of North Texas Libraries,
 Internet Archive, Stanford University Libraries, and the U.S. Government Publishing Office (GPO)
-are joining efforts again, this time with new partners Environmental Data & Governance Initiative
-(EDGI) and the General Services Administration (GSA), to preserve public United States Government
+are joining efforts again, this time with new partner Environmental Data & Governance Initiative
+(EDGI), to preserve public United States Government
 websites at the end of the current presidential administration ending January 20, 2021. This web
 harvest -- like its predecessors in 2008, 2012, and 2016 -- is intended to document the federal
 government’s presence on the World Wide Web during the transition of Presidential
@@ -41,6 +41,9 @@ administrations and to enhance the existing collections of the partner instituti
 This broad comprehensive crawl of the .gov domain will include as many federal .gov sites as we
 can find, plus federal content in other domains (such as .mil, .com, and social media content)
 and FTP’d datasets.
+
+If you would like to nominate a URL for inclusion in the End of Term Presidential Harvest 2020,
+please use the [nomination form][nomination_form].
 
 **Browse the End of Term Web Archive**
 
@@ -58,3 +61,4 @@ and FTP’d datasets.
 [eot_2016]: http://eotarchive.cdlib.org/search?f1-administration=2016
 [eot_all]: http://eotarchive.cdlib.org/search?browse-all=yes
 [eot_full_text]: http://eot.us.archive.org/search/
+[nomination_form]: https://digital2.library.unt.edu/nomination/eth2020/add/
