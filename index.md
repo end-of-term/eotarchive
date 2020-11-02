@@ -32,8 +32,9 @@ were out of scope.
 
 For the End of Term 2020, The Library of Congress, University of North Texas Libraries,
 Internet Archive, Stanford University Libraries, and the U.S. Government Publishing Office (GPO)
-are joining efforts again, this time with new partner Environmental Data & Governance Initiative
-(EDGI), to preserve public United States Government
+are joining efforts again, this time with new partners Environmental Data & Governance Initiative
+(EDGI) and the National Archives and Records Administrationi (NARA),
+to preserve public United States Government
 websites at the end of the current presidential administration ending January 20, 2021. This web
 harvest -- like its predecessors in 2008, 2012, and 2016 -- is intended to document the federal
 government’s presence on the World Wide Web during the transition of Presidential
