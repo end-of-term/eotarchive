@@ -7,8 +7,8 @@ permalink: /
 **Purpose**
 
 The End of Term Web Archive captures and saves U.S. Government websites at the end of
-presidential administrations. Beginning in 2008, the EOT has thus far preserved websites from
-administration changes in 2008, 2012 and 2016.
+presidential administrations. The EOT has thus far preserved websites from
+administration changes in 2008, 2012, 2016, and 2020.
 
 <figure class="third">
   <span markdown="1">
@@ -32,19 +32,23 @@ were out of scope.
 
 For the End of Term 2020, The Library of Congress, University of North Texas Libraries,
 Internet Archive, Stanford University Libraries, and the U.S. Government Publishing Office (GPO)
-are joining efforts again, this time with new partners Environmental Data & Governance Initiative
+joined efforts again, this time with new partners Environmental Data & Governance Initiative
 (EDGI) and the National Archives and Records Administrationi (NARA),
 to preserve public United States Government
-websites at the end of the current presidential administration ending January 20, 2021. This web
-harvest -- like its predecessors in 2008, 2012, and 2016 -- is intended to document the federal
-government’s presence on the World Wide Web during the transition of Presidential
+websites at the conclusion of the presidential administration ending January 20, 2021. This web
+harvest -- like its predecessors in 2008, 2012, and 2016 -- was intended to document the federal
+government's presence on the World Wide Web during the transition of presidential
 administrations and to enhance the existing collections of the partner institutions.
-This broad comprehensive crawl of the .gov domain will include as many federal .gov sites as we
-can find, plus federal content in other domains (such as .mil, .com, and social media content)
-and FTP’d datasets.
+This broad comprehensive crawl of the .gov domain includes as many federal .gov sites as we
+could find, plus federal content in other domains (such as .mil, .com, and social media content)
+and FTP'd datasets.
 
-If you would like to nominate a URL for inclusion in the End of Term Presidential Harvest 2020,
-please use the [nomination form][nomination_form].
+Nominations made by individual URL for inclusion in the End of Term Presidential Harvest 2020
+are availabe to view in the [Nomination Tool][human_nominated].
+URLs submitted for consideration in bulk form via files were added to a separate
+[bulk Nomination Tool instance][bulk_nominated]. The files containing the bulk list URLs
+have also been added to a [GitHub repository][eot2020_github]. The entirety of the archived
+content is currently [being held by the Internet Archive][eot2020_crawls].
 
 **Browse the End of Term Web Archive**
 
@@ -62,4 +66,7 @@ please use the [nomination form][nomination_form].
 [eot_2016]: http://eotarchive.cdlib.org/search?f1-administration=2016
 [eot_all]: http://eotarchive.cdlib.org/search?browse-all=yes
 [eot_full_text]: http://eot.us.archive.org/search/
-[nomination_form]: https://digital2.library.unt.edu/nomination/eth2020/add/
+[human_nominated]: https://digital2.library.unt.edu/nomination/eth2020/
+[bulk_nominated]: https://digital2.library.unt.edu/nomination/eth2020_bulk/
+[eot2020_github]: https://github.com/end-of-term/eot2020/
+[eot2020_crawls]: https://archive.org/details/EndOfTerm2020WebCrawls
