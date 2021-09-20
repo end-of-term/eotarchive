@@ -10,7 +10,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   The End of Term Web Archive is a collaborative initiative that collects,
   preserves, and makes accessible United States Government websites at the
   end of presidential administrations. 
-baseurl: "/eotarchive" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://eotarchive.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: eotarchive
 github_username:  end-of-term
