@@ -6,7 +6,7 @@ permalink: /data/
 
 # End of Term Datasets
 
-The End of Term project is working with the [Amazon Web Services&apos; Open Data Sponsorship Program](https://aws.amazon.com/opendata/open-data-sponsorship-program/)> to 
+The End of Term project is working with the [Amazon Web Services&apos; Open Data Sponsorship Program](https://aws.amazon.com/opendata/open-data-sponsorship-program/) to
 host a copy of the 2008, 2012, 2016, and 2020 End of Term Datasets. 
 
 The work of inventorying, staging and moving the data into AWS is still ongoing and more information will be provided here in the future. 
