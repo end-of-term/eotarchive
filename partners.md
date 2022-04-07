@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project Partners
+title: Partners
 permalink: /partners/
 ---
 

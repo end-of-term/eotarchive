@@ -15,6 +15,11 @@ url: "https://eotarchive.org" # the base hostname & protocol for your site, e.g.
 twitter_username: eotarchive
 github_username:  end-of-term
 
+header_pages:
+  - about.md
+  - partners.md
+  - data.md
+
 # Build settings
 theme: minima
 plugins:
