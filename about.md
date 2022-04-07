@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project Background
+title: Background
 permalink: /about/
 ---
 
