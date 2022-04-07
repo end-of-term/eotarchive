@@ -1,6 +1,6 @@
 ---
 layout: page
-title: End of Term Datasets
+title: Datasets
 permalink: /data/
 ---
 
