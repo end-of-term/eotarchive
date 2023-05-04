@@ -15,7 +15,8 @@ Currently we have these datasets partially available for use.
 
 | Dataset                      | WARC #  | WARC Size <br/> Compressed       | 
 |------------------------------|---------|----------------------------------|
-| [EOT-2008](/data/data-2008/) | 125704  | 15.32 TB                         |
+| [EOT-2020](/data/data-2020/) | 239811  | 266.04 TB                        |
+| [EOT-2016](/data/data-2016/) | 194683  | 139.3 TB                         |
 | [EOT-2012](/data/data-2012/) | 78509   | 41.42 TB                         |
-| EOT-2016                     |         |                                  |
-| EOT-2020                     |         |                                  |
+| [EOT-2008](/data/data-2008/) | 125704  | 15.32 TB                         |
+| EOT-2004                     |         |                                  |
