@@ -73,7 +73,8 @@ activities can be found at the following link: [About Web Archiving at UNT][unt_
 ### U.S. Government Publishing Office (GPO)
 
 The [U.S. Government Publishing Office][gpo] manages the Federal Depository Library Program and is
-charged with providing permanent public access to government publications.
+charged with providing permanent public access to government publications. Access to the Federal
+Depository Library Program Web Archive is located [here][fdlp_archive].
 
 ### U.S. National Archives and Records Administration (NARA)
 
@@ -94,3 +95,4 @@ Joining as a partner in 2020, the [U.S. National Archives and Records Administra
 [unt_web_archiving]: https://library.unt.edu/digital-projects-unit/web-archiving/
 [gpo]: https://www.gpo.gov/
 [nara]: https://www.archives.gov/ 
+[fdlp_archive]: https://www.archive-it.org/home/FDLPwebarchive
