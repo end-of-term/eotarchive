@@ -15,8 +15,9 @@ administration changes in 2008, 2012, 2016, and 2020.
    [![whitehouse.gov capture from September 15, 2008](/assets/img/whitehouse_2008_sm.jpg)][whitehouse_2008]
    [![whitehouse.gov capture from March 21, 2013](/assets/img/whitehouse_2013_sm.jpg)][whitehouse_2013]
    [![whitehouse.gov capture from February 3, 2017](/assets/img/whitehouse_2017_sm.jpg)][whitehouse_2017]
+   [![whitehouse.gov capture from February 5, 2021](/assets/img/whitehouse_2021_sm.jpg)][whitehouse_2021]
   </span>
-  <figcaption>Whitehouse.gov captures from: September 15, 2008; March 21, 2013; and February 3, 2017.</figcaption>
+  <figcaption>Whitehouse.gov captures from: September 15, 2008; March 21, 2013; February 3, 2017; and February 5, 2021.</figcaption>
 </figure>
 
 
@@ -58,9 +59,10 @@ content is currently [being held by the Internet Archive][eot2020_crawls].
 * [Browse All][eot_all]
 * [Search Full Text][eot_full_text]
 
-[whitehouse_2008]: http://eot.us.archive.org/eot/20080915222725/whitehouse.gov/
-[whitehouse_2013]: http://eot.us.archive.org/eot/20130321060955/http://www.whitehouse.gov/
-[whitehouse_2017]: http://eot.us.archive.org/eot/20170223093706/http://whitehouse.gov/
+[whitehouse_2008]: https://web.archive.org/web/20080915222725/whitehouse.gov/
+[whitehouse_2013]: https://web.archive.org/web/20130321060955/http://www.whitehouse.gov/
+[whitehouse_2017]: https://web.archive.org/web/20170223093706/http://whitehouse.gov/
+[whitehouse_2021]: https://web.archive.org/web/20210205010409/https://www.whitehouse.gov/
 [eot_2008]: http://eotarchive.cdlib.org/search?f1-administration=2008
 [eot_2012]: http://eotarchive.cdlib.org/search?f1-administration=2012
 [eot_2016]: http://eotarchive.cdlib.org/search?f1-administration=2016
