@@ -7,29 +7,7 @@ permalink: /partners/
 The construction of the End of Term Web Archive is a collaborative project,
 drawing on the skills and resources of each partner institution.
 
-### California Digital Library (CDL)
-
-Partner in the End of Term Web Archive 2008-2016, the [California Digital Library][cdl] provides
-digital library services and tools to the University of California and the digital library
-community at large. CDL developed the open source [eXtensible Text Framework (XTF)][xtf]
-behind this archive.
-
-### Environmental Data & Governance Initiative (EDGI)
-
-Contributing significantly to the End of Term project in 2016 and signing on as a partner
-for 2020, the [Environmental Data & Governance Initiative (EDGI)][edgi] analyzes federal
-environmental data, websites, institutions, and policy seeking to improve environmental
-data stewardship and to promote environmental health and environmental justice.
-
-### George Washington University (GWU)
-
-A project partner in 2016, the [George Washington University Libraries][gwu] has been building
-and using software tools to support researchers collecting social media data since 2012.
-With the support of grants from IMLS, NHPRC, and CEAL, GW Libraries developed the open-source
-[Social Feed Manager (SFM)](sfm) with capabilities to collect from Twitter, Flickr, Tumblr, and
-Sina Weibo. In addition to using SFM to support academic research in a wide array of
-disciplines and to support teaching and learning, GW Libraries builds and publicly shares
-[social media data sets][social_media_data] for reuse.
+## Current Partners (EOT 2024) 
 
 ### Internet Archive (IA)
 
@@ -79,6 +57,34 @@ Depository Library Program Web Archive is located [here][fdlp_archive].
 ### U.S. National Archives and Records Administration (NARA)
 
 Joining as a partner in 2020, the [U.S. National Archives and Records Administration (NARA)][nara] preserves and provides public access to high-value government records to promote openness, cultivate public participation, and strengthen our nation's democracy.
+
+## Previous Partners
+
+### California Digital Library (CDL)
+
+Partner in the End of Term Web Archive 2008-2016, the [California Digital Library][cdl] provides
+digital library services and tools to the University of California and the digital library
+community at large. CDL developed the open source [eXtensible Text Framework (XTF)][xtf]
+behind this archive.
+
+### Environmental Data & Governance Initiative (EDGI)
+
+Contributing significantly to the End of Term project in 2016 and signing on as a partner
+for 2020, the [Environmental Data & Governance Initiative (EDGI)][edgi] analyzes federal
+environmental data, websites, institutions, and policy seeking to improve environmental
+data stewardship and to promote environmental health and environmental justice.
+
+### George Washington University (GWU)
+
+A project partner in 2016, the [George Washington University Libraries][gwu] has been building
+and using software tools to support researchers collecting social media data since 2012.
+With the support of grants from IMLS, NHPRC, and CEAL, GW Libraries developed the open-source
+[Social Feed Manager (SFM)](sfm) with capabilities to collect from Twitter, Flickr, Tumblr, and
+Sina Weibo. In addition to using SFM to support academic research in a wide array of
+disciplines and to support teaching and learning, GW Libraries builds and publicly shares
+[social media data sets][social_media_data] for reuse.
+
+
 
 [cdl]: http://www.cdlib.org/
 [xtf]: http://xtf.cdlib.org/
