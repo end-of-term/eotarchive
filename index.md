@@ -10,10 +10,12 @@ The End of Term Web Archive captures and saves U.S. Government websites at the e
 presidential administrations. The EOT has thus far preserved websites from
 administration changes in 2008, 2012, 2016, and 2020.
 
-<figure class="fourth">
+<figure class="third">
   <span markdown="1">
    [![whitehouse.gov capture from September 15, 2008](/assets/img/whitehouse_2008_sm.jpg)][whitehouse_2008]
    [![whitehouse.gov capture from March 21, 2013](/assets/img/whitehouse_2013_sm.jpg)][whitehouse_2013]
+  </span>
+  <span markdown="1">
    [![whitehouse.gov capture from February 3, 2017](/assets/img/whitehouse_2017_sm.jpg)][whitehouse_2017]
    [![whitehouse.gov capture from February 5, 2021](/assets/img/whitehouse_2021_sm.jpg)][whitehouse_2021]
   </span>
