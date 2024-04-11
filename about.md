@@ -50,7 +50,13 @@ collaboration DataRefuge, Environmental Data and Governance Initiative (EDGI), a
 a total of 100,000 webpages or government datasets were nominated by citizens and preservationists
 for archiving. A total of 139TB of content was archived for EOT2016
 
-For the 2020 archive, the End of Term team gathered document what became the transition from the Trump administration to the Biden administration. Two instance of the nomination tool were run with 37,296 URLs being added to the Bulk Lists nomination instance and 4,059 URLs from 57 nominators added to the main nomination tool instance. The Internet Archive and the University of North Texas crawled with the Internet Archiving being responsible for the larger crawls and the University of North Texas focusing on .mil domains and the suggested URLs from the nomination tool. A total of 266TB of content was archived for EOT2020
+For the 2020 archive, the End of Term team gathered to document what became the transition from the
+Trump administration to the Biden administration. Two instances of the nomination tool were run
+with 37,296 URLs being added to the Bulk Lists nomination instance and 4,059 URLs from 57
+nominators added to the main nomination tool instance. The Internet Archive and the University of
+North Texas crawled with the Internet Archive being responsible for the larger crawls and the
+University of North Texas focusing on .mil domains and the suggested URLs from the nomination tool.
+A total of 266TB of content was archived for EOT2020.
 
 ### Our Collaborative Approach
 
