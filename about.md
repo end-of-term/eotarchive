@@ -32,13 +32,15 @@ January 2009. In Spring and Fall 2009 a final broad, comprehensive crawl was per
 any final changes that had occurred. Each of the project partners then transferred the content they
 had collected to form a single consolidated archive. The Internet Archive hosts the public access
 copy of this archive, the Library of Congress holds a preservation copy, and the University of
-North Texas holds an additional copy for data analysis. A total of 15TB of content was archived for EOT2008
+North Texas holds an additional copy for data analysis. A total of 15TB of content was archived
+for EOT2008.
 
 For the 2012 archive, the process and partners from 2008 were the similar, with crawling beginning
 in November 2011 by some partners institutions and bulk crawls by Internet Archive beginning in
 January 2012 . Volunteers to help identify sites were again solicited, and the project team worked
 closely with a group of students at the [Pratt School of Information][volunteers_pratt] to
-identify additional social media content for capture. A total of 41TB of content was archived for EOT2012
+identify additional social media content for capture. A total of 41TB of content was archived for
+EOT2012.
 
 For the 2016 archive, the original partners gathered again, and added Stanford University and
 George Washington University as new collaborative partners. We worked with a wide range of
@@ -48,7 +50,7 @@ data. With increased press about the project as well as more public interest in 
 government websites, the Nomination Tool saw almost 11,400 nominations, and through the EOT's
 collaboration DataRefuge, Environmental Data and Governance Initiative (EDGI), and other efforts,
 a total of 100,000 webpages or government datasets were nominated by citizens and preservationists
-for archiving. A total of 139TB of content was archived for EOT2016
+for archiving. A total of 139TB of content was archived for EOT2016.
 
 For the 2020 archive, the End of Term team gathered to document what became the transition from the
 Trump administration to the Biden administration. Two instances of the nomination tool were run
