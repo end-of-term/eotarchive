@@ -18,6 +18,7 @@ github_username:  end-of-term
 header_pages:
   - about.md
   - partners.md
+  - presentations.md
   - data.md
 
 # Build settings
