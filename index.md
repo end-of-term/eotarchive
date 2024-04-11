@@ -11,7 +11,7 @@ presidential administrations. The EOT has thus far preserved websites from
 administration changes in 2008, 2012, 2016, and 2020.
 
 <figure class="third">
-   <span markdown="1">
+  <span markdown="1">
    [![whitehouse.gov capture from September 15, 2008](/assets/img/whitehouse_2008_sm.jpg)][whitehouse_2008]
    [![whitehouse.gov capture from March 21, 2013](/assets/img/whitehouse_2013_sm.jpg)][whitehouse_2013]
   </span>
@@ -36,11 +36,12 @@ were out of scope.
 **U.S. Federal Government Domain End of Term 2024 Web Archive**
 
 For the End of Term 2024, The Library of Congress, University of North Texas Libraries,
-Internet Archive, Stanford University Libraries, U.S. Government Publishing Office (GPO), and the National Archives and Records Administration (NARA) joined efforts again to preserve public United States Government
-websites at the conclusion of the presidential administration ending January 20, 2025. This web
-harvest -- like its predecessors in 2008, 2012, 2016, and 2020 -- is intended to document the federal
-government's presence on the World Wide Web during the transition of presidential
-administrations and to enhance the existing collections of the partner institutions.
+Internet Archive, Stanford University Libraries, U.S. Government Publishing Office (GPO), and the
+National Archives and Records Administration (NARA) have joined efforts again to preserve public
+United States Government websites at the conclusion of the presidential administration ending
+January 20, 2025. This web harvest -- like its predecessors in 2008, 2012, 2016, and 2020 -- is
+intended to document the federal government's presence on the World Wide Web during the transition
+of presidential administrations and to enhance the existing collections of the partner institutions.
 
 This broad comprehensive crawl of the .gov domain includes as many federal .gov sites as we
 could find, plus federal content in other domains (such as .mil, .com, and social media content)
@@ -50,7 +51,7 @@ Nominations made by individual URL for inclusion in the End of Term Presidential
 are availabe to view in the [Nomination Tool][human_nominated].
 URLs submitted for consideration in bulk form via files were added to a separate
 [bulk Nomination Tool instance][bulk_nominated]. The files containing the bulk list URLs
-have also been added to a [GitHub repository][eot2020_github]. 
+have also been added to a [GitHub repository][eot2024_github]. 
 
 [whitehouse_2008]: https://web.archive.org/web/20080915222725/whitehouse.gov/
 [whitehouse_2013]: https://web.archive.org/web/20130321060955/http://www.whitehouse.gov/
@@ -58,4 +59,4 @@ have also been added to a [GitHub repository][eot2020_github].
 [whitehouse_2021]: https://web.archive.org/web/20210205010409/https://www.whitehouse.gov/
 [human_nominated]: https://digital2.library.unt.edu/nomination/eth2024/
 [bulk_nominated]: https://digital2.library.unt.edu/nomination/eth2024_bulk/
-[eot2020_github]: https://github.com/end-of-term/eot2024/
+[eot2024_github]: https://github.com/end-of-term/eot2024/
