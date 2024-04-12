@@ -68,6 +68,18 @@ figcaption {
   font-style: italic;
 }
 
+.divSquare{
+    width:48%;
+    height:200px;
+    float: left;
+    overflow: hidden;
+}
+
+.divSquare img{
+    width: 98%;
+    height: 98%;
+}
+
 // Import partials.
 @import
   "minima/base",
