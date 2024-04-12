@@ -10,17 +10,28 @@ The End of Term Web Archive captures and saves U.S. Government websites at the e
 presidential administrations. The EOT has thus far preserved websites from
 administration changes in 2008, 2012, 2016, and 2020.
 
-<figure class="third">
-  <span markdown="1">
-   [![whitehouse.gov capture from September 15, 2008](/assets/img/whitehouse_2008_sm.jpg)][whitehouse_2008]
-   [![whitehouse.gov capture from March 21, 2013](/assets/img/whitehouse_2013_sm.jpg)][whitehouse_2013]
-  </span>
-</figure>
-<figure class="third">
-  <span markdown="1">
-   [![whitehouse.gov capture from February 3, 2017](/assets/img/whitehouse_2017_sm.jpg)][whitehouse_2017]
-   [![whitehouse.gov capture from February 5, 2021](/assets/img/whitehouse_2021_sm.jpg)][whitehouse_2021]
-  </span>
+<figure>
+  <div id="first" class="divSquare">
+    <span markdown="1">
+     [![whitehouse.gov capture from September 15, 2008 includes image of President George W. Bush and Mrs. Laura Bush, joined by President John Agyekum Kufuor and Mrs. Theresa Kufuor of Ghana](/assets/img/whitehouse_2008.jpg)][whitehouse_2008]
+    </span>
+  </div>
+  <div id="second" class="divSquare">
+    <span markdown="1">
+     [![whitehouse.gov capture from March 21, 2013 includes image of President Barack Obama speaking to workers](/assets/img/whitehouse_2013.jpg)][whitehouse_2013]
+    </span>
+  </div>
+  <div style='clear:both'></div>
+  <div id="third" class="divSquare">
+    <span markdown="1">
+     [![whitehouse.gov capture from February 3, 2017 includes image of President Donald Trump with hand on Holy Bible being sworn in with Melania Trump](/assets/img/whitehouse_2017.jpg)][whitehouse_2017]
+    </span>
+  </div>
+  <div id="fourth" class="divSquare">
+    <span markdown="1">
+     [![whitehouse.gov capture from February 5, 2021 includes image of President Joseph Biden at podium in front of American flag](/assets/img/whitehouse_2021.jpg)][whitehouse_2021]
+    </span>
+  </div>
   <figcaption>Whitehouse.gov captures from: September 15, 2008; March 21, 2013; February 3, 2017; and February 5, 2021.</figcaption>
 </figure>
 

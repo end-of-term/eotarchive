@@ -50,7 +50,6 @@ $on-laptop:        1000px !default;
 img {
   max-width: 100%;
   vertical-align: middle;
-  padding: 15px;
 }
 
 
@@ -66,6 +65,19 @@ figcaption {
   font-size: $base-font-size;
   padding: 12px;
   font-style: italic;
+}
+
+.divSquare {
+  width: 50%;
+  height: 50%;
+  float: left;
+  overflow: hidden;
+}
+.divSquare img {
+  width: 98%;
+  height: 98%;
+  margin: 3px;
+  border: 1px solid lightgray;
 }
 
 // Import partials.
