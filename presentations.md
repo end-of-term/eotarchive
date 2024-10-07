@@ -30,6 +30,6 @@ Phillips, M. E., Phillips, K. K. (2018). End of Term 2016 Presidential Web Archi
 
 Phillips, M. E., Chudnov, D., & Jacobs, J. (2016). Exploratory Analysis of the End of Term Web Archive: Comparing Two Collections at Web Archiving and Digital Libraries 2016, Newark, New Jersey. [https://digital.library.unt.edu/ark:/67531/metadc854106/](https://digital.library.unt.edu/ark:/67531/metadc854106/)
 
-Harman, C. N., Murray, K., & Phillips, M. E. (2013) Classification of the End of Term Archive: Extending Collection Development Practices to Web Archives, IMLS Final Project Report for Award LG-06-09-0174-09. [https://digital.library.unt.edu/ark:/67531/metadc152437/](https://digital.library.unt.edu/ark:/67531/metadc152437/)
+Hartman, C. N., Murray, K., & Phillips, M. E. (2013) Classification of the End of Term Archive: Extending Collection Development Practices to Web Archives, IMLS Final Project Report for Award LG-06-09-0174-09. [https://digital.library.unt.edu/ark:/67531/metadc152437/](https://digital.library.unt.edu/ark:/67531/metadc152437/)
 
 Seneca, T., Grotke, A., Harman, C. N., Carpenter, K. (2012) It Takes A Village To Save The Web: The End Of Term Web Archive. Documents to the People (DttP), 40(1), 1-21. [https://digital.library.unt.edu/ark:/67531/metadc84373/](https://digital.library.unt.edu/ark:/67531/metadc84373/)

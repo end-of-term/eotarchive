@@ -8,7 +8,8 @@ permalink: /
 
 The End of Term Web Archive captures and saves U.S. Government websites at the end of
 presidential administrations. The EOT has thus far preserved websites from
-administration changes in 2008, 2012, 2016, and 2020.
+administration changes in 2008, 2012, 2016, and 2020. We are currently accepting
+**[URL nominations for the End of Term 2024 Web Archive][human_nominated]**.
 
 <figure>
   <div id="first" class="divSquare">
