@@ -58,6 +58,11 @@ Depository Library Program Web Archive is located [here][fdlp_archive].
 
 Joining as a partner in 2020, the [U.S. National Archives and Records Administration (NARA)][nara] preserves and provides public access to high-value government records to promote openness, cultivate public participation, and strengthen our nation's democracy.
 
+### Common Crawl Foundation (CCF)
+
+Joining as a partner in 2024, the [Common Crawl Foundation][ccf] is a 501(c)(3) non-profit with
+an open web dataset and archive dating back to 2007.
+
 ## Previous Partners
 
 ### California Digital Library (CDL)
@@ -102,3 +107,4 @@ disciplines and to support teaching and learning, GW Libraries builds and public
 [gpo]: https://www.gpo.gov/
 [nara]: https://www.archives.gov/ 
 [fdlp_archive]: https://www.archive-it.org/home/FDLPwebarchive
+[ccf]: https://commoncrawl.org/
