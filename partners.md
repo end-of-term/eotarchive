@@ -9,6 +9,18 @@ drawing on the skills and resources of each partner institution.
 
 ## Current Partners (EOT 2024) 
 
+### Common Crawl Foundation (CCF)
+
+Joining as a partner in 2024, the [Common Crawl Foundation][ccf] is a 501(c)(3) non-profit with
+an open web dataset and archive dating back to 2007.
+
+### Environmental Data & Governance Initiative (EDGI)
+
+Contributing significantly to the End of Term project in 2016 and signing on as a partner
+for 2020 and 2024, the [Environmental Data & Governance Initiative (EDGI)][edgi] analyzes federal
+environmental data, websites, institutions, and policy seeking to improve environmental
+data stewardship and to promote environmental health and environmental justice.
+
 ### Internet Archive (IA)
 
 The [Internet Archive (IA)][ia] is a 502(c)(3) non-profit that was founded to build an internet
@@ -58,11 +70,6 @@ Depository Library Program Web Archive is located [here][fdlp_archive].
 
 Joining as a partner in 2020, the [U.S. National Archives and Records Administration (NARA)][nara] preserves and provides public access to high-value government records to promote openness, cultivate public participation, and strengthen our nation's democracy.
 
-### Common Crawl Foundation (CCF)
-
-Joining as a partner in 2024, the [Common Crawl Foundation][ccf] is a 501(c)(3) non-profit with
-an open web dataset and archive dating back to 2007.
-
 ## Previous Partners
 
 ### California Digital Library (CDL)
@@ -71,13 +78,6 @@ Partner in the End of Term Web Archive 2008-2016, the [California Digital Librar
 digital library services and tools to the University of California and the digital library
 community at large. CDL developed the open source [eXtensible Text Framework (XTF)][xtf]
 behind this archive.
-
-### Environmental Data & Governance Initiative (EDGI)
-
-Contributing significantly to the End of Term project in 2016 and signing on as a partner
-for 2020, the [Environmental Data & Governance Initiative (EDGI)][edgi] analyzes federal
-environmental data, websites, institutions, and policy seeking to improve environmental
-data stewardship and to promote environmental health and environmental justice.
 
 ### George Washington University (GWU)
 
