@@ -84,7 +84,7 @@ behind this archive.
 A project partner in 2016, the [George Washington University Libraries][gwu] has been building
 and using software tools to support researchers collecting social media data since 2012.
 With the support of grants from IMLS, NHPRC, and CEAL, GW Libraries developed the open-source
-[Social Feed Manager (SFM)](sfm) with capabilities to collect from Twitter, Flickr, Tumblr, and
+[Social Feed Manager (SFM)][sfm] with capabilities to collect from Twitter, Flickr, Tumblr, and
 Sina Weibo. In addition to using SFM to support academic research in a wide array of
 disciplines and to support teaching and learning, GW Libraries builds and publicly shares
 [social media data sets][social_media_data] for reuse.
