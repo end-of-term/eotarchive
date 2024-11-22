@@ -38,9 +38,5 @@ Your contributions ensure that:
 - Researchers have reliable access to digital government records.
 - Future generations can learn from today’s decisions and policies.
 
-
----
-
-
 Every action you take helps ensure that at-risk government content is preserved for the future. Join us in making history accessible to all. Any questions? Email eot-info AT archive DOT org.
 
