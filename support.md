@@ -16,7 +16,7 @@ Help us capture at-risk government content in the following ways:
 - Submit **individual URLs** to the [URL Nomination Tool](https://digital2.library.unt.edu/nomination/eth2024/).
 - Upload **bulk seed lists** through our [GitHub repository](https://github.com/end-of-term/eot2024/tree/main/seed-lists). Bulk lists can be in .txt (one line per url) or .xlsx formats. 
 - Email bulk lists directly to us at **[eot-info@archive.org](mailto:eot-info@archive.org)**.
-- Some content is not collected by standard web harvesting tools, such as web apps and databases (eg. the eLibrary of the Federal Energy Regulatory Commission (FERC) which has thousands of dockets, reports, cases, opinions etc that are only available via search query (https://elibrary.ferc.gov/eLibrary/search)).  Help us surface **deep links** within government databases to ensure comprehensive preservation. Submit .gov databases to us using this google form https://forms.gle/ePGcew9X6Bt8bGLn6 or email us if you are able to comprehensively extract output URLs from .gov databases.
+- Some content is not collected by standard web harvesting tools, such as web apps and databases (e.g. the eLibrary of the Federal Energy Regulatory Commission (FERC) which has thousands of dockets, reports, cases, opinions etc. that are only available via search query (https://elibrary.ferc.gov/eLibrary/search).  Help us surface **deep links** within government databases to ensure comprehensive preservation. Submit .gov databases to us using our [Google form](https://forms.gle/ePGcew9X6Bt8bGLn6) or email us if you are able to comprehensively extract output URLs from .gov databases.
 
 
 ### Promote EOT on Social Media
