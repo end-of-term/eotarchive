@@ -40,11 +40,6 @@ Your contributions ensure that:
 
 [![USDA_Smokey_Bear poster from 1989, titled Only You. Part of the special collections, USDA National Agricultural Library.](/assets/img/USDA_Smokey_Bear.jpg)][USDA_Smokey_Bear]
 
-[![whitehouse.gov capture from March 21, 2013 includes image of President Barack Obama speaking to workers](/assets/img/whitehouse_2013.jpg)][whitehouse_2013]
-
 Every action you take helps ensure that at-risk government content is preserved for the future. Join us in making history accessible to all. Any questions? Email eot-info AT archive DOT org.
 
-
-[USDA_Smokey_Bear]: [https://web.archive.org/web/20240728184547/https://www.nal.usda.gov/exhibits/speccoll/items/show/459]
-
-
+[USDA_Smokey_Bear]: https://web.archive.org/web/20240728184547/https://www.nal.usda.gov/exhibits/speccoll/items/show/459
