@@ -5,7 +5,7 @@ permalink: /support/
 ---
 
 
-The **End of Term Web Archive (EOT 2024)** is a collaborative project, and we rely on the contributions and expertise of our partner institutions and the ongoing support of individuals and organizations like you! There are many ways to get involved and make a difference. Only YOU can prevent the loss of government information!
+The **End of Term Web Archive (EOT)** is a collaborative project, and we rely on the contributions and expertise of our partner institutions and the ongoing support of individuals and organizations like you! There are many ways to get involved and make a difference. Only YOU can prevent the loss of government information!
 
 
 ## How You Can Support EOT 2024
