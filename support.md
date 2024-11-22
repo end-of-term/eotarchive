@@ -38,5 +38,7 @@ Your contributions ensure that:
 - Researchers have reliable access to digital government records.
 - Future generations can learn from today’s decisions and policies.
 
+[![USDA_Smokey_Bear poster from 1989, titled “Only You.” Part of the special collections, USDA National Agricultural Library. Accessed November 22, 2024. https://www.nal.usda.gov/exhibits/speccoll/items/show/459.](/assets/img/USDA_Smokey_Bear.jpg)][USDA_Smokey_Bear]
+
 Every action you take helps ensure that at-risk government content is preserved for the future. Join us in making history accessible to all. Any questions? Email eot-info AT archive DOT org.
 
