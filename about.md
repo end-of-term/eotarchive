@@ -104,7 +104,7 @@ archive alone.
 [ndiipp]: https://www.digitalpreservation.gov/
 [volunteers_2012]: http://freegovinfo.info/node/3739
 [volunteers_pratt]: https://blogs.loc.gov/thesignal/2012/11/an-abundant-crop-the-end-of-term-harvest/
-[heritrix]: https://webarchive.jira.com/wiki/spaces/Heritrix
+[heritrix]: https://heritrix.readthedocs.io/en/latest/
 [bagit_library]: http://sourceforge.net/projects/loc-xferutils/
 [bagger]: https://groups.google.com/forum/#!topic/digital-curation/g6B7H_0zraM
 [eot_beginning]: http://blogs.loc.gov/digitalpreservation/2011/07/the-end-of-term-was-only-the-beginning/
