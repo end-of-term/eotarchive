@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Support
-permalink: /support/
+title: Contribute
+permalink: /contribute/
 ---
 
 
 The **End of Term Web Archive (EOT)** is a collaborative project, and we rely on the contributions and expertise of our partner institutions and the ongoing support of individuals and organizations like you! There are many ways to get involved and make a difference. Only YOU can prevent the loss of government information!
 
 
-## How You Can Support EOT 2024
+## How You Can Contribute to EOT 2024
 
 
 ### Submit/nominate URLs to the project
