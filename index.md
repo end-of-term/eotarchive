@@ -47,9 +47,7 @@ were out of scope.
 
 **U.S. Federal Government Domain End of Term 2024 Web Archive**
 
-For the End of Term 2024, The Library of Congress, University of North Texas Libraries,
-Internet Archive, Stanford University Libraries, U.S. Government Publishing Office (GPO), and the
-National Archives and Records Administration (NARA) have joined efforts again to preserve public
+For the End of Term 2024, [partners](partners.md) have joined efforts again to preserve public
 United States Government websites at the conclusion of the presidential administration ending
 January 20, 2025. This web harvest -- like its predecessors in 2008, 2012, 2016, and 2020 -- is
 intended to document the federal government's presence on the World Wide Web during the transition

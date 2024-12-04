@@ -30,14 +30,6 @@ located in San Francisco, IA's collections include texts, audio, moving images, 
 software as well as archived web pages. IA participates in the NDIIPP program and is a founding
 member of the National Digital Stewardship Alliance.
 
-### Library of Congress (LOC)
-
-The [Library of Congress][loc] has been archiving the web since 2000, with collections focusing on
-sites of Legislative Branch agencies, U.S. House and Senate offices and committees, and U.S.
-national election campaigns, among other thematic collections. More information about the
-Library's Web Archiving program is available at the
-[Library of Congress Web Archives page][loc_web_archives].
-
 ### Stanford University Libraries (SUL)
 
 Joining the End of Term project in 2016, [Stanford University Libraries][sul]
@@ -60,16 +52,6 @@ agencies and commissions. UNT also participates in the NDIIPP program and is a f
 the National Digital Stewardship Alliance. More information about the UNT Libraries web archiving
 activities can be found at the following link: [About Web Archiving at UNT][unt_web_archiving].
 
-### U.S. Government Publishing Office (GPO)
-
-The [U.S. Government Publishing Office][gpo] manages the Federal Depository Library Program and is
-charged with providing permanent public access to government publications. Access to the Federal
-Depository Library Program Web Archive is located [here][fdlp_archive].
-
-### U.S. National Archives and Records Administration (NARA)
-
-Joining as a partner in 2020, the [U.S. National Archives and Records Administration (NARA)][nara] preserves and provides public access to high-value government records to promote openness, cultivate public participation, and strengthen our nation's democracy.
-
 ## Previous Partners
 
 ### California Digital Library (CDL)
@@ -89,6 +71,29 @@ Sina Weibo. In addition to using SFM to support academic research in a wide arra
 disciplines and to support teaching and learning, GW Libraries builds and publicly shares
 [social media data sets][social_media_data] for reuse.
 
+### Library of Congress (LOC)
+
+A project partner in the End of Term Web Archive 2008-mid 2024, the [Library of Congress][loc] has
+been archiving the web since 2000, with collections focusing on sites of Legislative Branch
+agencies, U.S. House and Senate offices and committees, select Executive Branch agencies, and U.S.
+national election campaigns, among other thematic collections. More information about the Library's
+Web Archiving Program is available at the [Library of Congress Web Archives page][loc_web_archives]
+and public access is available at <https://www.loc.gov/web-archives/collections/>.
+
+### U.S. Government Publishing Office (GPO)
+
+The [U.S. Government Publishing Office][gpo] manages the Federal Depository Library Program and is
+charged with providing permanent public access to government publications. Access to the Federal
+Depository Library Program Web Archive is located [here][fdlp_archive].
+
+### U.S. National Archives and Records Administration (NARA)
+
+The [U.S. National Archives and Records Administration (NARA)][nara] preserves and provides public
+access to high-value government records to promote openness, cultivate public participation, and
+strengthen our nation's democracy. Starting in 2006, NARA began capturing and archiving
+Congressional websites at the end of every Congress. The Center for Legislative Archives provides
+public access at [webharvest.gov][webharvest]. Starting with the Clinton administration, NARA began preserving
+Presidential websites after the end of each Administration.
 
 
 [cdl]: http://www.cdlib.org/
@@ -108,3 +113,4 @@ disciplines and to support teaching and learning, GW Libraries builds and public
 [nara]: https://www.archives.gov/ 
 [fdlp_archive]: https://www.archive-it.org/home/FDLPwebarchive
 [ccf]: https://commoncrawl.org/
+[webharvest]: https://webharvest.gov/
