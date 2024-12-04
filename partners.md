@@ -78,7 +78,7 @@ been archiving the web since 2000, with collections focusing on sites of Legisla
 agencies, U.S. House and Senate offices and committees, select Executive Branch agencies, and U.S.
 national election campaigns, among other thematic collections. More information about the Library's
 Web Archiving Program is available at the [Library of Congress Web Archives page][loc_web_archives]
-and public access is available at https://www.loc.gov/web-archives/collections/.
+and public access is available at <https://www.loc.gov/web-archives/collections/>.
 
 ### U.S. Government Publishing Office (GPO)
 
