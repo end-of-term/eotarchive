@@ -14,6 +14,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://eotarchive.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: eotarchive
 github_username:  end-of-term
+bluesky_username: eotarchive.org
 
 header_pages:
   - about.md
