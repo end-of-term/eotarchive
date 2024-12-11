@@ -22,7 +22,7 @@ Help us capture at-risk government content in the following ways:
 ### Promote EOT on Social Media
 Spread the word about our mission by sharing information about the End of Term project on your social media channels. Follow and tag us to amplify our reach:
 - **X (formerly Twitter):** [@eotarchive](https://www.twitter.com/eotarchive)
-- **Bluesky:** [@eotarchive.org](https://bsky.app/profile/did:plc:qh5jxhakdkozbxjlivbmwtmn) 
+- **Bluesky:** [@eotarchive.org](https://bsky.app/profile/eotarchive.org)
 
 
 Use the hashtag **#EOT2024** to join the conversation and help raise awareness!
