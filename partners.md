@@ -7,7 +7,7 @@ permalink: /partners/
 The construction of the End of Term Web Archive is a collaborative project,
 drawing on the skills and resources of each partner institution.
 
-## Current Partners (EOT 2024) 
+## Current Partners (EOT 2024)
 
 ### Common Crawl Foundation (CCF)
 
@@ -51,6 +51,15 @@ and provide permanent public access to the web sites and publications of defunct
 agencies and commissions. UNT also participates in the NDIIPP program and is a founding member of
 the National Digital Stewardship Alliance. More information about the UNT Libraries web archiving
 activities can be found at the following link: [About Web Archiving at UNT][unt_web_archiving].
+
+### Webrecorder
+
+Joining as a partner in 2024, [Webrecorder][webrecorder] is focusing on capturing interactive and
+otherwise difficult to archive websites using [Browsertrix][btrix], their high-fidelity web archiving
+service. Originally a project within Rhizome — the New York-based arts organization dedicated to the
+history and preservation of born-digital artwork — Webrecorder has since spun out to create a portfolio
+of open source web archiving software including the aforementioned Browsertrix, the [ArchiveWeb.page][awp]
+browser extension, and the [ReplayWeb.page][rwp] web archive viewer.
 
 ## Previous Partners
 
@@ -114,3 +123,7 @@ Presidential websites after the end of each Administration.
 [fdlp_archive]: https://www.archive-it.org/home/FDLPwebarchive
 [ccf]: https://commoncrawl.org/
 [webharvest]: https://webharvest.gov/
+[webrecorder]: https://webrecorder.net
+[btrix]: https://webrecorder.net/browsertrix
+[awp]: https://webrecorder.net/archivewebpage
+[rwp]: https://webrecorder.net/replaywebpage
