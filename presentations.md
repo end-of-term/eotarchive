@@ -22,6 +22,9 @@ Minovi, D. (2024, December 11). _Three Efforts to Preserve Government Data as a 
 
 Shapiro, C. (2021, April 20). _How Government Agencies Archive the White House’s Electronic Records_. FedTech Magazine. <a href="https://fedtechmagazine.com/article/2021/04/how-government-agencies-archive-white-houses-electronic-records" data-versionurl="https://web.archive.org/web/20210420175406/https://fedtechmagazine.com/article/2021/04/how-government-agencies-archive-white-houses-electronic-records" data-versiondate="2021-04-20">https://fedtechmagazine.com/article/2021/04/how-government-agencies-archive-white-houses-electronic-records</a>
 
+### 2016
+
+Young, L. J. (2017, December 15) _The Librarians Saving The Internet_. Science Friday. <a href="https://apps.sciencefriday.com/data/librarians.html" data-versionurl="https://web.archive.org/web/20171215182156/https://apps.sciencefriday.com/data/librarians.html" data-versiondate="2017-12-15">https://apps.sciencefriday.com/data/librarians.html</a>
 
 ## Presentations
 
