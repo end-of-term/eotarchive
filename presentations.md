@@ -4,6 +4,28 @@ title: Presentations
 permalink: /presentations/
 ---
 
+## Press
+
+### 2024
+
+Calma, J. (2025, January 18). _The mad dash to protect environmental data from Donald Trump_. The Verge. <a href="https://www.theverge.com/2025/1/18/24346025/data-donald-trump-climate-environment-epa" data-versionurl="https://web.archive.org/web/20250128170830/https://www.theverge.com/2025/1/18/24346025/data-donald-trump-climate-environment-epa" data-versiondate="2025-01-28">https://www.theverge.com/2025/1/18/24346025/data-donald-trump-climate-environment-epa</a>
+
+Katz, L. (2024, October 28). _Meet The Citizens Racing To Save Government Websites From Vanishing_. Forbes. <a href="https://www.forbes.com/sites/lesliekatz/2024/10/23/inside-the-race-to-capture-government-websites-before-they-vanish-forever/" data-versionurl="https://web.archive.org/web/20241127155333/https://www.forbes.com/sites/lesliekatz/2024/10/23/inside-the-race-to-capture-government-websites-before-they-vanish-forever/" data-versiondate="2024-11-27">https://www.forbes.com/sites/lesliekatz/2024/10/23/inside-the-race-to-capture-government-websites-before-they-vanish-forever/</a> 
+
+Koebler, J. (2025, January 30). _Archivists Work to Identify and Save the Thousands of Datasets Disappearing From Data.gov_ 404 Media. <a href="https://www.404media.co/archivists-work-to-identify-and-save-the-thousands-of-datasets-disappearing-from-data-gov/" data-versionurl="https://web.archive.org/web/20250130201117/https://www.404media.co/archivists-work-to-identify-and-save-the-thousands-of-datasets-disappearing-from-data-gov/" dataversiondate="2025-01-30">https://www.404media.co/archivists-work-to-identify-and-save-the-thousands-of-datasets-disappearing-from-data-gov/</a>
+
+Miller, N. S. (2025, January 31). _Researchers rush to preserve federal health databases before they disappear from government websites_. The Journalist's Resource. <a href="https://journalistsresource.org/home/researchers-rush-to-preserve-federal-health-databases-before-they-disappear-from-government-websites/" data-versionurl="https://web.archive.org/web/20250131233934/https://journalistsresource.org/home/researchers-rush-to-preserve-federal-health-databases-before-they-disappear-from-government-websites/" data-versiondate="2025-01-31">https://journalistsresource.org/home/researchers-rush-to-preserve-federal-health-databases-before-they-disappear-from-government-websites/</a>
+
+Minovi, D. (2024, December 11). _Three Efforts to Preserve Government Data as a New Trump Administration Approaches_. The Equation. <a href="https://blog.ucsusa.org/dminovi/three-efforts-to-preserve-government-data-as-a-new-trump-administration-approaches/" data-versionurl="https://web.archive.org/web/20241212182011/https://blog.ucsusa.org/dminovi/three-efforts-to-preserve-government-data-as-a-new-trump-administration-approaches/" data-versiondate="2024-12-12">https://blog.ucsusa.org/dminovi/three-efforts-to-preserve-government-data-as-a-new-trump-administration-approaches/</a>
+
+### 2020
+
+Shapiro, C. (2021, April 20). _How Government Agencies Archive the White House’s Electronic Records_. FedTech Magazine. <a href="https://fedtechmagazine.com/article/2021/04/how-government-agencies-archive-white-houses-electronic-records" data-versionurl="https://web.archive.org/web/20210420175406/https://fedtechmagazine.com/article/2021/04/how-government-agencies-archive-white-houses-electronic-records" data-versiondate="2021-04-20">https://fedtechmagazine.com/article/2021/04/how-government-agencies-archive-white-houses-electronic-records</a>
+
+### 2016
+
+Young, L. J. (2017, December 15) _The Librarians Saving The Internet_. Science Friday. <a href="https://apps.sciencefriday.com/data/librarians.html" data-versionurl="https://web.archive.org/web/20171215182156/https://apps.sciencefriday.com/data/librarians.html" data-versiondate="2017-12-15">https://apps.sciencefriday.com/data/librarians.html</a>
+
 ## Presentations
 
 Phillips, M. E., & Alam, S. (2023) Lessons Learned in Hosting the End of Term Web Archive in the Cloud. 2023 International Internet Preservation Coalition (IIPC) General Assembly and Web Archiving Conference, Hilversum, Netherlands. [https://digital.library.unt.edu/ark:/67531/metadc2143907/](https://digital.library.unt.edu/ark:/67531/metadc2143907/)
