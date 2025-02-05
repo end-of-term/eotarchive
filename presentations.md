@@ -18,6 +18,9 @@ Miller, N. S. (2025, January 31). _Researchers rush to preserve federal health d
 
 Minovi, D. (2024, December 11). _Three Efforts to Preserve Government Data as a New Trump Administration Approaches_. The Equation. <a href="https://blog.ucsusa.org/dminovi/three-efforts-to-preserve-government-data-as-a-new-trump-administration-approaches/" data-versionurl="https://web.archive.org/web/20241212182011/https://blog.ucsusa.org/dminovi/three-efforts-to-preserve-government-data-as-a-new-trump-administration-approaches/" data-versiondate="2024-12-12">https://blog.ucsusa.org/dminovi/three-efforts-to-preserve-government-data-as-a-new-trump-administration-approaches/</a>
 
+Zwarenstein C. (2025, February 5). _As the Trump admin deletes online data, scientists and digital librarians rush to save it_. Salon.
+<a href="https://www.salon.com/2025/02/04/as-the-admin-deletes-online-data-scientists-and-digital-librarians-rush-to-save-it/" data-versionurl="https://web.archive.org/web/20250204175119/https://www.salon.com/2025/02/04/as-the-admin-deletes-online-data-scientists-and-digital-librarians-rush-to-save-it/" data-versiondata="2025-01-31">https://www.salon.com/2025/02/04/as-the-admin-deletes-online-data-scientists-and-digital-librarians-rush-to-save-it/</a>
+
 ### 2020
 
 Shapiro, C. (2021, April 20). _How Government Agencies Archive the White House’s Electronic Records_. FedTech Magazine. <a href="https://fedtechmagazine.com/article/2021/04/how-government-agencies-archive-white-houses-electronic-records" data-versionurl="https://web.archive.org/web/20210420175406/https://fedtechmagazine.com/article/2021/04/how-government-agencies-archive-white-houses-electronic-records" data-versiondate="2021-04-20">https://fedtechmagazine.com/article/2021/04/how-government-agencies-archive-white-houses-electronic-records</a>
