@@ -63,6 +63,31 @@ URLs submitted for consideration in bulk form via files were added to a separate
 [bulk Nomination Tool instance][bulk_nominated]. The files containing the bulk list URLs
 have also been added to a [GitHub repository][eot2024_github]. 
 
+**Searching the EOT Collections on the Wayback Machine**
+Search for and view historical snapshots of government websites archived during the EOT project in the Internet Archive's Wayback Machine:
+1. Go to [web.archive.org][wayback].
+2. Scroll to the "Collection Search" area and select your desired End of Term (EOT) collection, such as: "End Of Term (US Gov 2024)" from the dropdown.
+3. Type in keywords (for example, a federal agency's name) or a URL.
+4. Hit "SEARCH" and visit the resulting archived web pages.
+
+![EOT collection search in Wayback Machine](/assets/img/eot2024_search.jpg "EOT collection search")
+
+**What's in the EOT Collections?**
+Each EOT collection houses a wide range of file types preserved in [WARC files][warc_format], including:
+- HTML files
+- Images (JPEG, PNG, GIF)
+- PDF documents
+- Spreadsheets (CSV, Excel, etc.)
+- Videos and other multimedia
+- GeoJSON and other specialized formats
+
+**Downloading Bulk WARC Files**
+If you want to dive deeper or keep a local copy of the EOT content, at [eotarchive.org/data/](data.md) you'll find bulk WARC files from past EOT projects (2008, 2012, 2016, 2020) and, eventually, the 2024 collection. Downloading WARC Files supports:
+- Preservation: Keep your own copy safe and sound for future generations.
+- Exploration: Sift through historical data to uncover forgotten content.
+- Customized Research: Zero in on specific topics, agencies, or documents that intrigue you.
+- Analysis: Generate word clouds for dozens of domains, or seek out the government domain with the most preserved pages.
+
 [whitehouse_2008]: https://web.archive.org/web/20080915222725/whitehouse.gov/
 [whitehouse_2013]: https://web.archive.org/web/20130321060955/http://www.whitehouse.gov/
 [whitehouse_2017]: https://web.archive.org/web/20170223093706/http://whitehouse.gov/
@@ -70,3 +95,5 @@ have also been added to a [GitHub repository][eot2024_github].
 [human_nominated]: https://digital2.library.unt.edu/nomination/eth2024/
 [bulk_nominated]: https://digital2.library.unt.edu/nomination/eth2024_bulk/
 [eot2024_github]: https://github.com/end-of-term/eot2024/
+[warc_format]: https://en.wikipedia.org/wiki/WARC_(file_format)
+[wayback]: https://web.archive.org/
