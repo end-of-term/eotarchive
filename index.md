@@ -63,9 +63,9 @@ URLs submitted for consideration in bulk form via files were added to a separate
 [bulk Nomination Tool instance][bulk_nominated]. The files containing the bulk list URLs
 have also been added to a [GitHub repository][eot2024_github]. 
 
-**Searching the EOT Collections on the Wayback Machine**
+**Viewing the EOT Collections on the Wayback Machine**
 
-Search for and view historical snapshots of government websites archived during the EOT project in the Internet Archive's Wayback Machine:
+Content archived as part of the EOT project is being made available by the Internet Archive in their Wayback Machine. To search for and view historical snapshots of government websites:
 1. Go to [web.archive.org][wayback].
 2. Scroll to the "Collection Search" area and select your desired End of Term (EOT) collection, such as: "End Of Term (US Gov 2024)" from the dropdown.
 3. Type in keywords (for example, a federal agency's name) or a URL.
