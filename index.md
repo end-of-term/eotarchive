@@ -64,15 +64,17 @@ URLs submitted for consideration in bulk form via files were added to a separate
 have also been added to a [GitHub repository][eot2024_github]. 
 
 **Searching the EOT Collections on the Wayback Machine**
+
 Search for and view historical snapshots of government websites archived during the EOT project in the Internet Archive's Wayback Machine:
 1. Go to [web.archive.org][wayback].
 2. Scroll to the "Collection Search" area and select your desired End of Term (EOT) collection, such as: "End Of Term (US Gov 2024)" from the dropdown.
 3. Type in keywords (for example, a federal agency's name) or a URL.
 4. Hit "SEARCH" and visit the resulting archived web pages.
 
-![EOT collection search in Wayback Machine](/assets/img/eot2024_search.jpg "EOT collection search")
+![EOT collection search in Wayback Machine](/assets/img/eot2024_search.jpg)
 
 **What's in the EOT Collections?**
+
 Each EOT collection houses a wide range of file types preserved in [WARC files][warc_format], including:
 - HTML files
 - Images (JPEG, PNG, GIF)
@@ -82,6 +84,7 @@ Each EOT collection houses a wide range of file types preserved in [WARC files][
 - GeoJSON and other specialized formats
 
 **Downloading Bulk WARC Files**
+
 If you want to dive deeper or keep a local copy of the EOT content, at [eotarchive.org/data/](data.md) you'll find bulk WARC files from past EOT projects (2008, 2012, 2016, 2020) and, eventually, the 2024 collection. Downloading WARC Files supports:
 - Preservation: Keep your own copy safe and sound for future generations.
 - Exploration: Sift through historical data to uncover forgotten content.
