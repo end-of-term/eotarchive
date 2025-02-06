@@ -85,7 +85,7 @@ Each EOT collection houses a wide range of file types preserved in [WARC files][
 
 **Downloading Bulk WARC Files**
 
-If you want to dive deeper or keep a local copy of the EOT content, at [eotarchive.org/data/](data.md) you'll find bulk WARC files from past EOT projects (2008, 2012, 2016, 2020) and, eventually, the 2024 collection. Downloading WARC Files supports:
+If you want to dive deeper or keep a local copy of the EOT content, on our [data page](data.md) you'll find bulk WARC files from past EOT projects (2008, 2012, 2016, 2020) and, eventually, the 2024 collection. Downloading WARC Files supports:
 - Preservation: Keep your own copy safe and sound for future generations.
 - Exploration: Sift through historical data to uncover forgotten content.
 - Customized Research: Zero in on specific topics, agencies, or documents that intrigue you.
