@@ -30,13 +30,13 @@ located in San Francisco, IA's collections include texts, audio, moving images, 
 software as well as archived web pages. IA participates in the NDIIPP program and is a founding
 member of the National Digital Stewardship Alliance.
 
-### Library Innovation Lab (LiL) at Harvard Law School
+### Library Innovation Lab (LIL) at Harvard Law School
 
 The [Library Innovation Lab][LiL] is a department of the Harvard Law School Library. The lab is home 
 to projects such as [Perma.cc][perma], a tool for creating reliable web citations used by courts and 
 law journals; [H2O Open Casebook][h2o], a platform for professors to create free, remixable textbooks; 
 and the [Caselaw Access Project][case], a complete machine-readable archive of American caselaw digitized 
-from the library’s collection. LiL is growing knowledge and community by bringing library principles to 
+from the library’s collection. LIL is growing knowledge and community by bringing library principles to
 technological frontiers.
 
 ### Stanford University Libraries (SUL)
