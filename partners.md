@@ -30,6 +30,15 @@ located in San Francisco, IA's collections include texts, audio, moving images, 
 software as well as archived web pages. IA participates in the NDIIPP program and is a founding
 member of the National Digital Stewardship Alliance.
 
+### Library Innovation Lab (LIL) at Harvard Law School
+
+The [Library Innovation Lab][LiL] is a department of the Harvard Law School Library. The lab is home 
+to projects such as [Perma.cc][perma], a tool for creating reliable web citations used by courts and 
+law journals; [H2O Open Casebook][h2o], a platform for professors to create free, remixable textbooks; 
+and the [Caselaw Access Project][case], a complete machine-readable archive of American caselaw digitized 
+from the library’s collection. LIL is growing knowledge and community by bringing library principles to
+technological frontiers.
+
 ### Stanford University Libraries (SUL)
 
 Joining the End of Term project in 2016, [Stanford University Libraries][sul]
@@ -112,6 +121,7 @@ Presidential websites after the end of each Administration.
 [sfm]: https://gwu-libraries.github.io/sfm-ui/
 [social_media_data]: https://dataverse.harvard.edu/dataverse.xhtml?alias=gwu-libraries
 [ia]: https://www.archive.org/
+[LiL]: https://lil.law.harvard.edu/
 [loc]: https://www.loc.gov/
 [loc_web_archives]: https://www.loc.gov/webarchiving/
 [sul]: https://library.stanford.edu/
@@ -127,3 +137,6 @@ Presidential websites after the end of each Administration.
 [btrix]: https://webrecorder.net/browsertrix
 [awp]: https://webrecorder.net/archivewebpage
 [rwp]: https://webrecorder.net/replaywebpage
+[perma]: http://perma.cc/
+[case]: https://case.law/
+[h2o]: https://opencasebook.org/
