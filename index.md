@@ -91,6 +91,18 @@ If you want to dive deeper or keep a local copy of the EOT content, on our [data
 - Customized Research: Zero in on specific topics, agencies, or documents that intrigue you.
 - Analysis: Generate word clouds for dozens of domains, or seek out the government domain with the most preserved pages.
 
+**Viewing the EOT Collections on Webrecorder’s dedicated site GovArchive.us –crawled with Browsertrix and ArchiveWeb.page**
+
+[GovArchive.us](https://govarchive.us/) contains archived websites from the US Government as part of the EOT initiative, with a focus on complex and interactive websites. Webrecorder has made the sites available as standalone mirrors hosted on subdomains, to replicate the original site and URL structure as closely as possible. You can [read more on Webrecorder’s blog](https://webrecorder.net/blog/2025-03-25-govarchive-us-and-mirroring-sites-with-web-archives/) and downloads are available on the [Browsertrix Public Gallery](https://app.browsertrix.com/explore/usgov-archive).
+
+**How To Navigate**
+Follow the next steps to view the archived websites: 
+1. Go to [GovArchive.us](https://govarchive.us/) 
+2. Click an image to explore the archived version as a standalone mirror
+3. In each mirror site, the top green banner on top shows the date/time it was archived 
+4. To download an archive as a WACZ file, click ‘View on Browsertrix’ to open the website snapshot, click the right-side menu and select ‘Download Archive’ 
+
+
 [whitehouse_2008]: https://web.archive.org/web/20080915222725/whitehouse.gov/
 [whitehouse_2013]: https://web.archive.org/web/20130321060955/http://www.whitehouse.gov/
 [whitehouse_2017]: https://web.archive.org/web/20170223093706/http://whitehouse.gov/
