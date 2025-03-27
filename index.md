@@ -91,6 +91,20 @@ If you want to dive deeper or keep a local copy of the EOT content, on our [data
 - Customized Research: Zero in on specific topics, agencies, or documents that intrigue you.
 - Analysis: Generate word clouds for dozens of domains, or seek out the government domain with the most preserved pages.
 
+**Viewing the EOT Collections on Webrecorder's GovArchive.us**
+
+[GovArchive.us][govarchive] contains archived U.S. government websites crawled with Browsertrix and ArchiveWeb.page as part of the EOT initiative, with a focus on complex and interactive websites. Webrecorder has made the sites available as standalone mirrors hosted on subdomains, to replicate the original site and URL structure as closely as possible. You can [read more on Webrecorder's blog][blog_site_mirror] and downloads are available on the [Browsertrix Public Gallery][browsertrix_gallery].
+
+To view the archived websites: 
+1. Go to [GovArchive.us][govarchive].
+2. Click an image to explore the archived version as a standalone mirror.
+3. In each mirror site, the top green banner on top shows the date/time it was archived.
+4. To download an archive as a WACZ file, click _View on Browsertrix_ to open the website snapshot, click the right-side menu and select _Download Archive_.
+
+![Screenshot of Webrecorder's GovArchive.us with their public collections of Sea Level Change, EPA, USAID, and CDC](/assets/img/Webrecorder-GovArchiveUs01.avif)
+
+![Screenshot showing how to download the Sea Level Change collection on Browsertrix using the ReplayWeb.Page actions menu](/assets/img/Webrecorder-GovArchiveUs02.avif)
+
 [whitehouse_2008]: https://web.archive.org/web/20080915222725/whitehouse.gov/
 [whitehouse_2013]: https://web.archive.org/web/20130321060955/http://www.whitehouse.gov/
 [whitehouse_2017]: https://web.archive.org/web/20170223093706/http://whitehouse.gov/
@@ -100,3 +114,6 @@ If you want to dive deeper or keep a local copy of the EOT content, on our [data
 [eot2024_github]: https://github.com/end-of-term/eot2024/
 [warc_format]: https://en.wikipedia.org/wiki/WARC_(file_format)
 [wayback]: https://web.archive.org/
+[govarchive]: https://govarchive.us/
+[blog_site_mirror]: https://webrecorder.net/blog/2025-03-25-govarchive-us-and-mirroring-sites-with-web-archives/
+[browsertrix_gallery]: https://app.browsertrix.com/explore/usgov-archive
