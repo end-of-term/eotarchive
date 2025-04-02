@@ -10,7 +10,7 @@ The End of Term Web Archive captures and saves U.S. Government websites at the e
 presidential administrations. The EOT has thus far preserved websites from
 administration changes in 2008, 2012, 2016, 2020, and 2024. We have closed the EOT seed nomination form for the 2024 harvest.
 
-We are now accepting human nominated URL nominations for the **[U.S. Government Web & Data Archive 2025][Web-data-Archive2025]**.
+We are now accepting human-nominated URLs for the **[U.S. Government Web & Data Archive 2025][Web-data-Archive2025]**.
 
 <figure>
   <div id="first" class="divSquare">
