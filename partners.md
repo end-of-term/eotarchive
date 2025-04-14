@@ -117,7 +117,7 @@ Presidential websites after the end of each Administration.
 [cdl]: http://www.cdlib.org/
 [xtf]: http://xtf.cdlib.org/
 [edgi]: https://envirodatagov.org/
-[gwu]: https://www.gwu.edu/
+[gwu]: https://library.gwu.edu/
 [sfm]: https://gwu-libraries.github.io/sfm-ui/
 [social_media_data]: https://dataverse.harvard.edu/dataverse.xhtml?alias=gwu-libraries
 [ia]: https://www.archive.org/
