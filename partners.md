@@ -21,6 +21,14 @@ for 2020 and 2024, the [Environmental Data & Governance Initiative (EDGI)][edgi]
 environmental data, websites, institutions, and policy seeking to improve environmental
 data stewardship and to promote environmental health and environmental justice.
 
+### infoDOCKET / Gary Price
+
+Library Journal's [infoDOCKET][infoDoc] is an endeavor by Gary Price to provide information industry news 
+with a focus on libraries and academic research. The platform serves a range of library types including public, 
+academic, government, and national through news updates, reports, and publications. It aims to educate and 
+inform librarians, researchers, and interested readers about trends, challenges, and developments in 
+the library and information sectors.
+
 ### Internet Archive (IA)
 
 The [Internet Archive (IA)][ia] is a 502(c)(3) non-profit that was founded to build an internet
@@ -121,6 +129,7 @@ Presidential websites after the end of each Administration.
 [sfm]: https://gwu-libraries.github.io/sfm-ui/
 [social_media_data]: https://dataverse.harvard.edu/dataverse.xhtml?alias=gwu-libraries
 [ia]: https://www.archive.org/
+[infoDoc]: https://www.infodocket.com
 [LiL]: https://lil.law.harvard.edu/
 [loc]: https://www.loc.gov/
 [loc_web_archives]: https://www.loc.gov/webarchiving/
