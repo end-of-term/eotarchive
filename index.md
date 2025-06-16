@@ -68,7 +68,7 @@ have also been added to a [GitHub repository][eot2024_github].
 
 Content archived as part of the EOT project is being made available by the Internet Archive in their Wayback Machine. To search for and view historical snapshots of government websites:
 1. Go to [web.archive.org][wayback].
-2. Scroll to the "Collection Search" area and select your desired End of Term (EOT) collection, such as: "End Of Term (US Gov 2024)" from the dropdown.
+2. Scroll to the "Collection Search" area and select your desired End of Term (EOT) collection, such as: "End Of Term (US Gov) 2024" from the dropdown.
 3. Type in keywords (for example, a federal agency's name) or a URL.
 4. Hit "SEARCH" and visit the resulting archived web pages.
 
