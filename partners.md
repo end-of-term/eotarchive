@@ -9,7 +9,7 @@ drawing on the skills and resources of each partner institution.
 
 ## Current Partners (EOT 2024)
 
-## Archive Team
+### Archive Team
 [Archive Team][archiveteam] is a loose collective of rogue archivists, programmers, and 
 writers dedicated to saving our digital heritage. Since 2009, this volunteer driven effort has 
 mobilized quickly to rescue at risk websites from shutdowns and deletions. In 2024, Archive Team 
