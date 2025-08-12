@@ -9,6 +9,14 @@ drawing on the skills and resources of each partner institution.
 
 ## Current Partners (EOT 2024)
 
+## Archive Team
+[Archive Team][archiveteam] is a loose collective of rogue archivists, programmers, and 
+writers dedicated to saving our digital heritage. Since 2009, this volunteer driven effort has 
+mobilized quickly to rescue at risk websites from shutdowns and deletions. In 2024, Archive Team 
+joined the End of Term Web Archive for the first time, contributing more data to the 2024 crawl 
+than any other partner. 
+
+
 ### Common Crawl Foundation (CCF)
 
 Joining as a partner in 2024, the [Common Crawl Foundation][ccf] is a 501(c)(3) non-profit with
@@ -149,3 +157,4 @@ Presidential websites after the end of each Administration.
 [perma]: http://perma.cc/
 [case]: https://case.law/
 [h2o]: https://opencasebook.org/
+[archiveteam]: https://www.archiveteam.org/
