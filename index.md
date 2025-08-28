@@ -59,7 +59,7 @@ could find, plus federal content in other domains (such as .mil, .com, and socia
 and FTP'd datasets.
 
 Nominations made by individual URL for inclusion in the End of Term Presidential Harvest 2024
-are availabe to view in the [Nomination Tool][human_nominated].
+are available to view in the [Nomination Tool][human_nominated].
 URLs submitted for consideration in bulk form via files were added to a separate
 [bulk Nomination Tool instance][bulk_nominated]. The files containing the bulk list URLs
 have also been added to a [GitHub repository][eot2024_github]. 
