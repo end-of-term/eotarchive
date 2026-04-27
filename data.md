@@ -20,7 +20,7 @@ Currently we have these datasets available for use.
 | [EOT-2016](/data/data-2016/) | 194,683   | 139.3 TB                   |
 | [EOT-2012](/data/data-2012/) | 78,509    | 41.42 TB                   |
 | [EOT-2008](/data/data-2008/) | 125,704   | 15.32 TB                   |
-| EOT-2004                     | 58,977    | 6.42 TB                    |
+| [EOT-2004](/data/data-2004/) | 58,977    | 6.42 TB                    |
 
 # End of Term Web Crawls Collection
 
