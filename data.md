@@ -22,6 +22,17 @@ Currently we have these datasets available for use.
 | [EOT-2008](/data/data-2008/) | 125,704   | 15.32 TB                   |
 | [EOT-2004](/data/data-2004/) | 58,977    | 6.42 TB                    |
 
-# End of Term Web Crawls Collection
+## How to Cite
+```
+@misc{EOTDataset2008,
+	title        = {End of Term Datasets},
+	author       = {Alam, Sawood and Phillips, Mark Edward},
+	year         = 2026,
+	publisher    = {End of Term Web Archive},
+	url          = {https://eotarchive.org/data/}
+}
+```
+
+## End of Term Web Crawls Collection
 
 Additionally, crawl data is available from the Internet Archive via the [End of Term Web Crawls collection](https://archive.org/details/EndofTermWebCrawls).
