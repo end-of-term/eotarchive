@@ -24,7 +24,7 @@ Currently we have these datasets available for use.
 
 ## How to Cite
 ```
-@misc{EOTDataset2008,
+@misc{EOTDatasets,
 	title        = {End of Term Datasets},
 	author       = {Alam, Sawood and Phillips, Mark Edward},
 	year         = 2026,
